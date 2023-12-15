@@ -1,14 +1,18 @@
-<h1 align="center">Hi 👋, I'm Jorge Vargas</h1>
-<h3 align="center">Just graduated from Unitec University with a degree in Software Engineering</h3>
+<h1 align="center">Hi there, I'm Jorge Vargas 👋</h1>
+<h3 align="center">I'm a Junior Java Developer passionate about writing clean, efficient, and accessible code. I'm always looking to learn new things and collaborate on projects that are challenging and fun.
+</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bigbacastd&label=Profile%20views&color=0e75b6&style=flat" alt="bigbacastd" /> </p>
 
-- 🌱 I’m currently learning **Java**
-
-- 📫 How to reach me **jorge.vargas_ing.t@outlook.com**
-
+- 🎓 I recently graduated from UNITEC (https://www.unitec.mx/) with a degree in Software Engineer.
+- 💼 I'm currently working on improving my Java skills and building up my project portfolio.
+- 🌱 I’m currently learning Spring Boot, Microservices, and Cloud Technologies.
+- 👯 I’m looking to collaborate on open-source projects and Java-based applications.
+- 🤔 I’m looking for help with advanced Java concepts and best practices.
+- 💬 Ask me about anything related to Java, algorithms, or data structures.
+- 📫 How to reach me: jorge.vargas_ing.t@outlook.com
 - ⚡ Fun fact **Tacos, Skateboardng and Music🎵 are the reasons to live.**
 
 <h3 align="left">Connect with me:</h3>
